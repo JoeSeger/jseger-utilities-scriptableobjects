@@ -1,0 +1,13 @@
+{
+  "name": "com.jsegerdev.scriptableobjects",
+  "version": "0.0.1",
+  "displayName": "JSeger Scriptable Object Utilities",
+  "description": "Scriptable Object Utilities",
+  "unity": "2022.3",
+  "author": {
+    "name": "Joseph Seger",
+    "email": "joseph@josephseger.com",
+    "url": ""
+  }
+}
+
