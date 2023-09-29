@@ -8,6 +8,10 @@
     "name": "Joseph Seger",
     "email": "joseph@josephseger.com",
     "url": ""
+  },
+  "dependencies":
+  {
+    "com.jsegerdev.dictionaries": "https://github.com/JoeSeger/jseger-utilities-directories.git"
   }
 }
 

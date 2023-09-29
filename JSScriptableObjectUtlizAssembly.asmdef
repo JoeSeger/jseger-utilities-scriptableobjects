@@ -1,0 +1,16 @@
+{
+    "name": "JSScriptableObjectUtlizAssembly",
+    "rootNamespace": "JSeger.Utilities.ScriptableObjects",
+    "references": [
+        "GUID:eefe8c0095976124094fd4b4a072e052"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
